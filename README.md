@@ -1,0 +1,2 @@
+# gt413
+GT413 will generate SSL certificates. You will use certificates for creating security layer. Create both sides, Certificate Authority and Server Certificate. You can also assign multiple CA or Server Certificates. When you open specific version on release list, for example version v1.0, inside of that package you can find EULA agreement, official documentation in PDF format and packages of binary files, separated according to operating system for which binary files are built. All parts of 413 ecosystem you can find on https://www.413.world.
